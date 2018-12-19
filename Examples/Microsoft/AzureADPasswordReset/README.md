@@ -22,3 +22,4 @@
 ## References
 
 * [Tutorial: Azure AD password reset from the login screen](https://docs.microsoft.com/en-us/azure/active-directory/authentication/tutorial-sspr-windows#limitations)
+* 
